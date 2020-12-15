@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.a8c9e864.chunk.css",
-    "main.js": "./static/js/main.6f0cf23f.chunk.js",
-    "main.js.map": "./static/js/main.6f0cf23f.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.42c99de8.js",
-    "runtime-main.js.map": "./static/js/runtime-main.42c99de8.js.map",
-    "static/css/2.48819e57.chunk.css": "./static/css/2.48819e57.chunk.css",
-    "static/js/2.69263b72.chunk.js": "./static/js/2.69263b72.chunk.js",
-    "static/js/2.69263b72.chunk.js.map": "./static/js/2.69263b72.chunk.js.map",
+    "main.css": "./static/css/main.9c966409.chunk.css",
+    "main.js": "./static/js/main.04bd3d2e.chunk.js",
+    "main.js.map": "./static/js/main.04bd3d2e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5e967c9a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5e967c9a.js.map",
+    "static/css/2.e0c2922b.chunk.css": "./static/css/2.e0c2922b.chunk.css",
+    "static/js/2.ed7c6f43.chunk.js": "./static/js/2.ed7c6f43.chunk.js",
+    "static/js/2.ed7c6f43.chunk.js.map": "./static/js/2.ed7c6f43.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.7ebd737d754c374555cf3baed08ca1d6.js": "./precache-manifest.7ebd737d754c374555cf3baed08ca1d6.js",
+    "precache-manifest.d09837dd25943d5ef10f150fa2e980a7.js": "./precache-manifest.d09837dd25943d5ef10f150fa2e980a7.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.48819e57.chunk.css.map": "./static/css/2.48819e57.chunk.css.map",
-    "static/css/main.a8c9e864.chunk.css.map": "./static/css/main.a8c9e864.chunk.css.map",
-    "static/js/2.69263b72.chunk.js.LICENSE": "./static/js/2.69263b72.chunk.js.LICENSE",
+    "static/css/2.e0c2922b.chunk.css.map": "./static/css/2.e0c2922b.chunk.css.map",
+    "static/css/main.9c966409.chunk.css.map": "./static/css/main.9c966409.chunk.css.map",
+    "static/js/2.ed7c6f43.chunk.js.LICENSE.txt": "./static/js/2.ed7c6f43.chunk.js.LICENSE.txt",
     "static/media/Layer 1.png": "./static/media/Layer 1.9116ba3b.png",
     "static/media/Rounded Rectangle 4.png": "./static/media/Rounded Rectangle 4.b2d1543f.png",
     "static/media/Vector Smart Object-2.png": "./static/media/Vector Smart Object-2.a608dbdd.png",
@@ -22,10 +22,10 @@
     "static/media/welcome.PNG": "./static/media/welcome.c74b445c.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.42c99de8.js",
-    "static/css/2.48819e57.chunk.css",
-    "static/js/2.69263b72.chunk.js",
-    "static/css/main.a8c9e864.chunk.css",
-    "static/js/main.6f0cf23f.chunk.js"
+    "static/js/runtime-main.5e967c9a.js",
+    "static/css/2.e0c2922b.chunk.css",
+    "static/js/2.ed7c6f43.chunk.js",
+    "static/css/main.9c966409.chunk.css",
+    "static/js/main.04bd3d2e.chunk.js"
   ]
 }

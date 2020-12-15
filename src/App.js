@@ -20,7 +20,7 @@ class App extends Component {
   render() {
     return (
 
-      <Router basename='/react/crmsystem-contact-calendars-autoresponder/build/' >
+      <Router  >
             <Switch>
         <Route exact path="/signup" component={SignUp} />
         <Route exact path="/signin" component={SignIn} />
